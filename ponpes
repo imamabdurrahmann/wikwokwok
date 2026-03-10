@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/kalefemale22-bot/c16a040770c1cad1cab0b0e97abbfa6e/raw/gistfile1.txt"))()
-
 _G.FishItConfig = _G.FishItConfig or {
     ["Fishing"] = {
         ["Auto Perfect"] = false,
@@ -169,3 +167,5 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Debug"] = false,
     ["EXIT_MAP_IF_DISCONNECT"] = false,
 }
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/kalefemale22-bot/c16a040770c1cad1cab0b0e97abbfa6e/raw/gistfile1.txt"))()
