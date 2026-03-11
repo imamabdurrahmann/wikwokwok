@@ -104,8 +104,8 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = true,
-        ["Evolved Roll Enchant"] = true,
+        ["Roll Enchant"] = false,
+        ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
             "Reeler II",
             "Reeler I",
@@ -158,7 +158,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
 
     ["ExtremeFpsBoost"] = false,
-    ["UltimatePerformance"] = true,
+    ["UltimatePerformance"] = false,
     ["Disable3DRender"] = false,
     ["AutoRemovePlayer"] = true,
 
