@@ -107,11 +107,11 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
-            "Reeler II",
-            "Reeler I",
+            "Cursed I",
+            "Mutation Hunter II",
             "SECRET Hunter",
         },
-        ["Second Enchant"] = false,
+        ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -129,9 +129,9 @@ _G.FishItConfig = _G.FishItConfig or {
             "Frostborn Shark", 
         },
         ["Second Enchant List"] = {
-            "Reeler I",
-            "Perfection",
-            "Empowered I,",
+            "Mutation Hunter II",
+            "Cursed I",
+ 		    "Prismatic I",
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
     },
