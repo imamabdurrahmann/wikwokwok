@@ -17,7 +17,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"talonkikir1999"},
+        ["Whitelist Username"] = {""},
         ["Category Fish"] = {
             "Secret",
             "Mythic",
@@ -38,7 +38,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Selling"] = {
         ["Auto Sell"] = true,
-        ["Auto Sell Threshold"] = "Legend",
+        ["Auto Sell Threshold"] = "Mythic",
         ["Auto Sell Every"] = 50,
     },
     ["Doing Quest"] = {
@@ -133,9 +133,9 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Second Enchant List"] = {
             "Mutation Hunter II",
             "Cursed I",
- 		        "Prismatic I",
+ 		    "Prismatic I",
         },
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = "Element Rod",
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,
